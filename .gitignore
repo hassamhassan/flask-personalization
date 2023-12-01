@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLAlchemy
+*.sqlite
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Local development files
+.env
+
+# User-specific files
+*.rsuser
+*.rhistory
